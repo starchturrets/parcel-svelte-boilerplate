@@ -15,7 +15,7 @@ I made this for my personal use, but if you want to use it, nothing's stopping y
 To install:
 
 ```
-npx degit starchturrets/svelte-boilerplate project-name
+npx degit starchturrets/parcel-svelte-boilerplate project-name
 git init
 ```
 
