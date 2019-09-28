@@ -1,5 +1,5 @@
 {
-  "name": "programming",
+  "name": "parcel-svelte-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,10 @@
   "browserslist": [
     "last 1 chrome versions"
   ],
-  "keywords": [],
+  "keywords": [
+    "parcel",
+    "svelte"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
